@@ -12,3 +12,7 @@ print(10*2)
 print("Match no more")
 
 print("Hello.. Nice to meet you!")
+
+X = 60+60
+
+print(X)
